@@ -1,4 +1,4 @@
-# Pyspark-KPIs-for-fanfictions-and-learning
+# Pyspark for learning
 
 This is a repisatory where I use Pyspark on different datasources to learn more about Pyspark. 
 
